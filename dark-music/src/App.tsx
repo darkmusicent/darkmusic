@@ -30,7 +30,7 @@ const TRANSLATIONS = {
     nav: { services: "Services", contact: "Contact" },
     hero: {
       tag: "Premium Distribution",
-      title_1: "Unleash",
+      title_1: "Release",
       title_2: "Your Music.",
       desc: "We provide high-end digital music distribution solutions, helping your work appear on every platform with the best quality.",
       btn_start: "Start Now",
